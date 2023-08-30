@@ -1,0 +1,6 @@
+﻿  Admin.cpp
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleServer\ChatConsoleServer\Admin.cpp(93,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleServer\ChatConsoleServer\Admin.cpp(142,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleServer\ChatConsoleServer\Admin.cpp(192,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleServer\ChatConsoleServer\Admin.cpp(251,18): warning C4018: <: несоответствие типов со знаком и без знака
+  ChatConsoleServer.vcxproj -> D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleServer\x64\Debug\ChatConsoleServer.exe

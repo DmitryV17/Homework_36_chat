@@ -1,0 +1,6 @@
+﻿  Chat.cpp
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleClient\ChatConsoleClient\Chat.cpp(247,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleClient\ChatConsoleClient\Chat.cpp(295,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleClient\ChatConsoleClient\Chat.cpp(439,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleClient\ChatConsoleClient\Chat.cpp(494,18): warning C4018: <: несоответствие типов со знаком и без знака
+  ChatConsoleClient.vcxproj -> D:\Ci++\my chat reserve code\ChatConsoleClient\ChatConsoleClient\x64\Debug\ChatConsoleClient.exe
